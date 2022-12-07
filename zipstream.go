@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/koofr/gozipstream/zip"
+	"github.com/nnnewb/gozipstream/zip"
 )
 
 type ZipStream struct {
